@@ -1,3 +1,5 @@
+![Crystal Identifier Banner](https://raw.githubusercontent.com/BeardedTech0o/identifications-of-crystals/claude/crystal-identification-pwa-887spe/icons/crystal-banner.png)
+
 # Crystal Identifier
 
 An installable, offline-first PWA that identifies crystals and minerals using your camera — no cloud AI, no paid API, no account.
