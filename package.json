@@ -1,0 +1,13 @@
+{
+  "name": "identifications-of-crystals",
+  "version": "1.0.0",
+  "description": "Offline, on-device crystal/mineral identifier PWA (no build step - plain HTML/CSS/JS).",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "pngjs": "^7.0.0"
+  },
+  "license": "ISC"
+}
